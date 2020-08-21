@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto';
+    background-color: cyan;
+}
+.box-style{
+    /* box-sizing: border-box; */
+    border: 1px solid salmon;
+    padding-right: 10px;
+    background-color: lightsalmon;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    text-align: center;
+}
